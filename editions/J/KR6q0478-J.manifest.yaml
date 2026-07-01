@@ -1,0 +1,90 @@
+canonical_identifier: bkk:krp/KR6q0478/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0478/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 內紹種禪師語錄
+  identifiers:
+    krp: KR6q0478
+    cbeta: J34nB306
+    cbeta_old_id: J34nB306
+    authorityid: CA0005957
+    json_key: JB306
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB306.xml
+    old_id: J34nB306
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0478_000-J.yaml, hash: 'sha256:e857fc1483618d42077de097c47a789f38943baa3c5bd0d1d05dd83cd0c4ace0'}
+  - {seq: 1, filename: KR6q0478_001-J.yaml, hash: 'sha256:decc90c9fd656b8aacb3921899d2a7b56613b509b4224d223e214cafdfb710fb'}
+  - {seq: 2, filename: KR6q0478_002-J.yaml, hash: 'sha256:9e839d8417a9ca578445b6f9bd7238edb66ffd2b121b05739c48f22e2fed934d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0478_000-J.markers.yaml, hash: 'sha256:66091dea570836e60d0722e8eaef5d60383860754508e80dc2d5394142d192c2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0478_001-J.markers.yaml, hash: 'sha256:59f1ef3678db7b31d107054f0b279d3e8a58e5fba14f3fb4fab7c5a965e0c00c'}
+  - {seq: 2, role: markers, filename: assets/KR6q0478_002-J.markers.yaml, hash: 'sha256:6b9a7d742ac7dc91b6c8c8bc9f8c07f1a5bc777fc0054f1178f8e28ed761323c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0478_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0478_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 9365
+  label: 內紹禪師語錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0478_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住蘇州甫里月掌禪院語上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0478_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 20253
+  label: 內紹禪師語錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0478_J_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住蘇州甫里月掌禪院語下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0478_J_002-mulu-2
+    span:
+    - body
+    - 9283
+    - 9283
+  label: 得閒堂頌古
+  type: mulu
+  level: 1
+hash: sha256:8b3eb3d37278c2853ae95dac45169a0dec3bcfdf968499a7b26b559162308fa5
