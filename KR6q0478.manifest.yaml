@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0478/v1
 canonical_location: https://kanripo.org/bkk/KR6q0478/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 內紹種禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0478_000.yaml, hash: 'sha256:e857fc1483618d42077de097c47a789f38943baa3c5bd0d1d05dd83cd0c4ace0'}
-  - {seq: 1, filename: KR6q0478_001.yaml, hash: 'sha256:decc90c9fd656b8aacb3921899d2a7b56613b509b4224d223e214cafdfb710fb'}
-  - {seq: 2, filename: KR6q0478_002.yaml, hash: 'sha256:9e839d8417a9ca578445b6f9bd7238edb66ffd2b121b05739c48f22e2fed934d'}
+  - {seq: 0, filename: KR6q0478_000.yaml, hash: 'sha256:8abb88bd2e1457d9f0c67f652b76d34401a25e31ebec10d7be9103549de8566e'}
+  - {seq: 1, filename: KR6q0478_001.yaml, hash: 'sha256:26e17800484577cb734f150af09e6d40e995382efa96761ea495ed54197289ef'}
+  - {seq: 2, filename: KR6q0478_002.yaml, hash: 'sha256:826bce2cfa0a0b249b8bfe5ac140a77edd6dbe7dee912d26c8b267bbc1fb4fb7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0478_000.markers.yaml, hash: 'sha256:1ac63ee30f8d6de372c9da26edc3d6d1672194e13e59e5c2f38c71632e2046e9'}
-  - {seq: 1, role: markers, filename: assets/KR6q0478_001.markers.yaml, hash: 'sha256:1ae92ad4bd9839c89e31d0005e5dd8b6299583607544c97d5d99513a2ad3bec9'}
-  - {seq: 2, role: markers, filename: assets/KR6q0478_002.markers.yaml, hash: 'sha256:6c270bbd7a574442681f2bbb7a88a844fde372beeade35dc0e68caf869544483'}
+  - {seq: 0, role: markers, filename: assets/KR6q0478_000.markers.yaml, hash: 'sha256:57017390df2d4d2457a3a8f2a38993c928098e7fe1c18aa981019a4b46c9789f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0478_001.markers.yaml, hash: 'sha256:bf12213c4012d94be86ac618e94ba2bc514969f5b7a93266359d1aaf20530ec8'}
+  - {seq: 2, role: markers, filename: assets/KR6q0478_002.markers.yaml, hash: 'sha256:e6fc1562ae85cabbaa7cbd6601b2b58d2888e6ad8019ab8e4de57bac183bd2c2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -89,4 +89,7 @@ table_of_contents:
   label: 得閒堂頌古
   type: mulu
   level: 1
-hash: sha256:d9b07e505433040c66d0c77567218dc02c100910a4cf268e1897f7f0b2e0ed30
+hash: sha256:b5492bf241599a1c98ccf9ad386ad43951b0dc1f8578b8f91ffea0cd87d974bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
