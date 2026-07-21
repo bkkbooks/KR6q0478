@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0478_000-J.yaml, hash: 'sha256:e857fc1483618d42077de097c47a789f38943baa3c5bd0d1d05dd83cd0c4ace0'}
+  - {seq: 0, filename: KR6q0478_000-J.yaml, hash: 'sha256:78ecf812e0ee1d2a01ba9e3c51129d915eacc758cf7f7322ca00cb0eed8b8eb9'}
   - {seq: 1, filename: KR6q0478_001-J.yaml, hash: 'sha256:decc90c9fd656b8aacb3921899d2a7b56613b509b4224d223e214cafdfb710fb'}
   - {seq: 2, filename: KR6q0478_002-J.yaml, hash: 'sha256:9e839d8417a9ca578445b6f9bd7238edb66ffd2b121b05739c48f22e2fed934d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0478_000-J.markers.yaml, hash: 'sha256:66091dea570836e60d0722e8eaef5d60383860754508e80dc2d5394142d192c2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0478_000-J.markers.yaml, hash: 'sha256:62a450f77503a559deeff6c88c648775175d265c3c1ae1bf822a060d7f9d5641'}
   - {seq: 1, role: markers, filename: assets/KR6q0478_001-J.markers.yaml, hash: 'sha256:59f1ef3678db7b31d107054f0b279d3e8a58e5fba14f3fb4fab7c5a965e0c00c'}
   - {seq: 2, role: markers, filename: assets/KR6q0478_002-J.markers.yaml, hash: 'sha256:6b9a7d742ac7dc91b6c8c8bc9f8c07f1a5bc777fc0054f1178f8e28ed761323c'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0478_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -87,4 +87,4 @@ table_of_contents:
   label: 得閒堂頌古
   type: mulu
   level: 1
-hash: sha256:8b3eb3d37278c2853ae95dac45169a0dec3bcfdf968499a7b26b559162308fa5
+hash: sha256:bf2e4640c5ef2aac844869b126f44b4a65a212f5077dd37b7e7c600dded35a6c
